@@ -17,5 +17,6 @@ pip install -r requirements.txt
 streamlit run gemini_streamlit.py
 ``` 
 After running the script, Streamlit's UI should open in your default web browser.  
+![image](https://github.com/salek877/AI_Experiments/blob/master/gemini/assets/Screenshot%202023-12-21%20090728.png) 
 ### HuggingFace space
 I hosted the application on HuggingFace
