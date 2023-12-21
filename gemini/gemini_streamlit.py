@@ -37,6 +37,7 @@ def chat(inpt_frm_vsn):
             input_key = f"chat_input_{message_count}"
             user_input = st.chat_input('Please write your message here...', key=input_key)
             if user_input:
+                st.write(f"User: {user_input}")
                 input_msg = user_input + ' Complete answer in 55 words. Never show the word count.'
             else:
                 continue_chat = False
