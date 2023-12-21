@@ -22,3 +22,5 @@ After running the script, Streamlit's UI should open in your default web browser
 I hosted the application on HuggingFace
 
 ![image](https://github.com/salek877/AI_Experiments/blob/777c9ae7643af8ac931354d4b3b796e983f32f96/gemini/assets/image.png) 
+
+[HuggingFace Space]([https://pages.github.com/](https://salek877-pomologistgemini.hf.space)https://salek877-pomologistgemini.hf.space)
